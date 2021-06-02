@@ -1,2 +1,2 @@
 # knn
-Implementação do algoritmo Naive Bayes
+Implementação do algoritmo KNN
